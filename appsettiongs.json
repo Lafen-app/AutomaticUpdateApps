@@ -1,0 +1,5 @@
+{
+    "api_url": "https://api.github.com/repos/dbeaver/dbeaver/releases/latest",
+    "ps_script_path": "C:\\Users\\-\\Desktop\\Powershell_Python\\Testing\\Module for sccm\\DBeaver\\CreateSCCMApplicationDBeaver.ps1",
+    "base_download_directory": "\\\\-\\Sources\\Software\\_Automatical_Update_Program\\DBeaver",
+}
